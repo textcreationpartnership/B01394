@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to several letters written by Scotish gentlemen in His Majesties dominions beyond the seas to the master &amp; governors of the Scotish Corporation and Hospital in London, giving a true account of the erection of the said company, and its progress from the year 1664, to 1677, for the satisfaction of such as desire that information.</title>
+            <author>Renney, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01394</idno>
+            <idno type="STC">Wing A3375</idno>
+            <idno type="STC">ESTC R170322</idno>
+            <idno type="EEBO-CITATION">53981444</idno>
+            <idno type="OCLC">ocm 53981444</idno>
+            <idno type="VID">180097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180097)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2813:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to several letters written by Scotish gentlemen in His Majesties dominions beyond the seas to the master &amp; governors of the Scotish Corporation and Hospital in London, giving a true account of the erection of the said company, and its progress from the year 1664, to 1677, for the satisfaction of such as desire that information.</title>
+                  <author>Renney, John.</author>
+                  <author>Scottish Corporation in London.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>ca. 1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letter.</note>
+                  <note>Signed at end:  John Renney, present master.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scottish Corporation in London --  Early works to 1800.</term>
+               <term>Charities --  England --  London --  17th century --  Early works to 1800.</term>
+               <term>Hospitals --  England --  London --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:180097:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:180097:1" rendition="simple:additions"/>
+            <head>AN ANSWER TO Several LETTERS Written by SCOTISH GENTLEMEN In His Majeſties Dominions beyond the Seas, To the MASTER &amp; GOVERNORS OF THE Scotiſh Corporation AND HOSPITAL in <hi>LONDON. Giving a true Account of the Erection of the ſaid Company, and its Progreſs from the Year</hi> 1664, <hi>to</hi> 1677. <hi>for the Satisfaction of ſuch as deſire that Information.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E cannot but judge well of your Intentions, by the deſire you teſtifie in your Letters, to be in<g ref="char:EOLhyphen"/>formed of the Grounds and Motives that in<g ref="char:EOLhyphen"/>duced us to procure the Erection of a Corpo<g ref="char:EOLhyphen"/>ration of our Countreymen in <hi>London:</hi> And as we rejoyce to perceive you acted by the ſame Charitable and Publick Spirit that mo<g ref="char:EOLhyphen"/>ved us, ſo we think it our Duty to ſatisfie your juſt Demands as clearly and ſuccinctly as poſ<g ref="char:EOLhyphen"/>ſibly we can. Though we need not put you in mind that many uſe<g ref="char:EOLhyphen"/>ful
+<pb n="2" facs="tcp:180097:2"/>
+and great Works have had their Riſe from low and fortuitous Be<g ref="char:EOLhyphen"/>ginnings; your own, and the experience of the World, being ſuffi<g ref="char:EOLhyphen"/>ciently furniſhed with many Inſtances of this Nature; yet that you may the more fully underſtand the Original and Progreſs of our So<g ref="char:EOLhyphen"/>ciety, by the accidental Motives and real Cauſes of its Eſtabliſhment: take the pains, Gentlemen, to be informed,</p>
+            <p>That in the Year 1664, a worthy Member of this Society, who is ſtill alive, being viſited with a long Fit of Sickneſs, and in doubt of Life, reſolved to communicate to the Poor of his Countrey (whom he found to be numerous, and under great ſtreights) part of the Fruits of thoſe his Labors, which the Lord had been pleaſed to bleſs with Suc<g ref="char:EOLhyphen"/>ceſs. But his Charity having a farther Proſpect than a preſent Supply to the Indigent at that time, and being willing to mortifie a Gift, that might be a ſtanding Stock for the Relief of the Poor not only of the preſent but future Ages; and to ſecure the ſame to Poſterity, as far as worldly Contingencies could permit, and beyond the uncertainties of private Truſtees, whoſe malverſation or decay, often diſappoint the pious Intentions of Donors; he took thereupon the advice of Councel.</p>
+            <p>Their Anſwer and Reſolution was, that his preſent Charity might be ſafely enough diſtributed, but that if his intention was to ſettle a perpetual Stock, the uſe and improvement whereof might be a ſtand<g ref="char:EOLhyphen"/>ing Supply for the Poor of his Countrey, the ſureſt Expedient for that was to obtain Letters Patent from His Majeſty, for the erecting of an Incorporation of <hi>Scots</hi> in <hi>London</hi> which having the Priviledges of a permanent and authorized Society, would be by Law impowred to act and oblige themſelves and Succeſſors, in ſuch a manner as no private Conſociation could pretend to. This Reſolution was immediately imparted by the Sick Perſon to the moſt ſober and diſcreet Men of our Countrey, who then had the direction of that voluntary Contri<g ref="char:EOLhyphen"/>bution, which by the name of Box-money was collected for the uſe of the Poor. They maturely weighed the matter firſt privately among themſelves, and then in a general Meeting of our Countreymen, who all foreſeeing the advantages of the Deſign, and applauding the Coun<g ref="char:EOLhyphen"/>cel, notwithſtanding their doubts of procuring the Patent, beſtir<g ref="char:EOLhyphen"/>red themſelves ſo zealouſly in that Affair, that having made application to the Earl of <hi>Lauderdale,</hi> and made appear to him the profitableneſs of that Project, they obtained of His Gracious Majeſty, by the interceſſion of the Earl, after a Reference and ſatisfactory Report made to His Ma<g ref="char:EOLhyphen"/>jeſty on that Subject, a Patent in ample Form; which took place the Third of <hi>September</hi> 1665. and Mr. <hi>James Kinnier</hi> was choſen firſt Maſter.</p>
+            <p>So good a Work was almoſt ſtifled in the Birth; for the Contagious Plague which then diſpeopled <hi>London,</hi> and thoſe fatal Flames (which the Year following by the deplorable ruine of the City purified it from Infection to the very foundation;) if not wholly cruſhed, yet ſuſpended for ſome time the execution of our good Intentions. Theſe
+<pb n="3" facs="tcp:180097:2"/>
+diſmal Times, however, put not a ſtop to the main Wheel of Charity, for during the Sickneſs Year, when our Beginnings were but ſmall, there were Three hundred <hi>Scots,</hi> and of <hi>Scotiſh</hi> Extraction, who dyed of the Plague in and about <hi>London,</hi> buried at the Charge of the Com<g ref="char:EOLhyphen"/>pany, with as much decency as the Calamity of the Time would per<g ref="char:EOLhyphen"/>mit; and many who were Infected maintained, and taken care of, un<g ref="char:EOLhyphen"/>til they recovered, and by God's bleſſing the Contagion ceaſed, with<g ref="char:EOLhyphen"/>out putting the ſeveral Pariſhes where they had lived to one Farthing of Expences.</p>
+            <p>Whil'ſt the City lay buried under its own Rubbiſh, though many of our Members who had been ſcattered by theſe two heavy Viſitations, were again returned, and as earneſt in their deſires as formerly to pro<g ref="char:EOLhyphen"/>mote that Work of Charity; yet the lowneſs of our Stock, which was hardly ſufficient to ſupply the Neceſſities of the Poor that then lay upon us, made us almoſt deſpair of bringing our deſigns to any accom<g ref="char:EOLhyphen"/>pliſhment. We wanted a Hall for our Meetings, Ground to build up<g ref="char:EOLhyphen"/>on, and Money to purchaſe and effectuate both. Nevertheleſs in the Year 1670, the City having to admiration recovered, or rather out<g ref="char:EOLhyphen"/>done much of its ancient ſplendor, we reſolved with revived hopes vi<g ref="char:EOLhyphen"/>gorouſly to ſet upon the performance of our long intended reſoluti<g ref="char:EOLhyphen"/>ons. To that effect having ſeveral times aſſembled the Body of our Company, to conſult about the meaſures we were to take, we at length had notice given us of a piece of waſte Ground in <hi>Black-Fryers,</hi> where formerly had ſtood a large dwelling Houſe belonging to a Lady: ha<g ref="char:EOLhyphen"/>ving after a view found the Ground for our purpoſe, we made appli<g ref="char:EOLhyphen"/>cation to the Lady for the Purchaſe. She was unwilling to ſell the Ground right of her Inheritance, but being informed of the Pious and Charitable uſe that it was deſigned for, ſhe frankly granted us a Leaſe of it for a Thouſand Years. Having laid this foundation, we again in ſeveral Meetings of the Corporation conſidered of the wayes of raiſing Money to go on with our Buildings; and found ſo great readineſs not only in the Members of our own Society, but alſo in ſeveral perſons of worth and quality of our Nation, who liberally and bountifully both gave and lent us Money, upon no other Security but the Bond of the Corporation, that we were enabled in ſeveral Gradations to build, firſt four dwelling Houſes fronting the Street in <hi>Black-Fryers</hi> that leads to the River, with an Inſcription on the Frontiſpiece, declaring them to be for the uſe of the Poor of our Countrey, which were finiſhed in the Year 1671, next our Hall, and a Houſe contiguous to it, the Hall having its Entry from the Street in <hi>Black-Fryers,</hi> and lying open to <hi>Bridewell</hi> Ditch, with an Emblem of Charity cut in Free Stone, and faſtened in the Wall, finiſhed in the Year 1672. And laſtly another Houſe which ſtands upon a parcel of diſputed Ground that lay long undetermined, with a Kitchin and two Rooms over it for a Dwelling-houſe for our Beadle, which at the ſole Charge of the Members of the Company were finiſhed in the Years 1675, and 76. The Charge of the whole Building, <hi>viz.</hi> Seven Dwelling-houſes, the Hall with two ſmall Rooms adjoining to it, the Kitchin and two Rooms over it for the Beadle, by a true Computation, amounting to Four thouſand four
+<pb n="4" facs="tcp:180097:3"/>
+hundred, and about fifty Pounds <hi>Engliſh,</hi> no inconſiderable Sum to have been raiſed and disburſed in ſo ſhort a time. And though the Corporation hath by ſuch a vaſt Expence contracted Debts; yet when we conſider the chearful and free Contributions of thoſe who have al<g ref="char:EOLhyphen"/>ready concurred with ſo much Unanimity in that charitable Work, and the former experiences that we have had of the Goodneſs and Bleſ<g ref="char:EOLhyphen"/>ſing of Almighty God, in raiſing us up many times unexpected Supports to our languiſhing Hopes; we cannot but confidently believe, that the like means may hereafter free us from Incumbrances, as have hitherto advanced the Work in ſuch a progreſs to perfection: And the rather, that none of thoſe bountiful Benefactors who have even above their Abilities contributed to the Work, have any reaſon from the ſucceſs of their honeſt Endeavors, to think their worldly Eſtates any way leſſened thereby; God Almighty, who charges as a Debt on Provi<g ref="char:EOLhyphen"/>dence what is chearfully given to the Poor, having many times imper<g ref="char:EOLhyphen"/>ceptible wayes to repay what that way is lent to himſelf: And that moreover all ſuch whoſe hands have been open in their Charity, beſides the inward ſatisfaction of Conſcience, the inſeparable Companion of Virtue, and the hopes of future Bliſs, the promiſed Reward of Well-doing, have alſo their Names and Benevolences recorded to Poſterity in a large Sheet of Parchment hung up in the Hall, for their preſent ſa<g ref="char:EOLhyphen"/>tisfaction, and an encouragement to others hereafter to imitate their laudable Example.</p>
+            <p>God Almighty having thus far proſpered our Endeavors, we thought it convenient to have our Patent, which in ſome things was defective, and not rightly conceived, altered and enlarged. Accordingly having addreſſed our ſelves to his Grace the Duke of <hi>Lauderdale,</hi> the Kings Moſt Excellent Majeſty, at the earneſt deſire of the Duke, has been Graciouſly pleaſed, to renew our Patent in ſuch full and ample form as was requiſite: And the Lord Chancellor of <hi>England,</hi> and other Offi<g ref="char:EOLhyphen"/>cers of State through whoſe hands it paſt, have with a Generous and Charitable Liberality been pleaſed to diſcharge us of their uſual Fees; to whoſe Noble Munificence we do acknowledge our ſelves Eternally obliged. Nor muſt we profeſs leſs Gratitude to the Magiſtrates and Governors of this famous City of <hi>London,</hi> who have not been wanting to encourage us by many Favors, and to many other Charitable Per<g ref="char:EOLhyphen"/>ſons of the <hi>Engliſh</hi> Nation, who profeſſing themſelves much taken with ſo laudable a work of Charity, have freely and bountifully aſſiſted us with their Benevolence, which we hope will not be fruſtrated of Re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>Hitherto, Gentlemen, we have acquainted you with the Motives that gave Being to our Corporation, and with its Beginnings and Pro<g ref="char:EOLhyphen"/>greſs to this preſent: We ſhall now briefly give you an Account of its Conſtitution and Government, with ſome few Inſtances, amongſt many others, of the Benefits and Advantages that may therefrom redound to the Poor of our Countrey.</p>
+            <p>The Corporation conſiſts then, of a Maſter, Eight Governors, Three
+<pb n="5" facs="tcp:180097:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd thirty Aſſiſtants, with ſome ſubſervient Officers appointed by them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Regiſter, Treaſurer, Stewards and Beadle, and of entered Members. The Maſter is yearly choſen out of the Aſſiſtants by the eight Gover<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors, who are perpetual, and muſt be all <hi>Scotiſh</hi> men born. If the Maſter dye before his Year be expired, the eldeſt Maſter is to ſupply his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lace until a new Election: And upon death, or excluſion for miſde<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eanor, of any of the Governors, the eldeſt Maſter amongſt the Aſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtants, provided he be a <hi>Scotiſh</hi> man born, is to ſucceed in the Office; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut if otherwiſe, he is only after he hath been Maſter, to continue Aſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtant, and the next <hi>Scotiſh</hi> man ſucceſſively of the Aſſiſtants that hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een Maſter, is to be admitted, according to the true and genuine ſenſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd meaning of our Patent. Out of the Aſſiſtants, by the Maſter, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overnors and Aſſiſtants, there is likewiſe yearly choſen a Treaſurer, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho in courſe falls to be Maſter: and who, to prevent all fraud and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alverſation, by ſuffering the Money to be in ſeveral hands, is alone to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceive the Companies Rents, which are collected by two Stewards al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red and of new elected every Quarter-day; and at the Years end is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give in his Accompts at a Publick Meeting, which being audited and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt the Balance, is to be delivered to the ſucceeding Treaſurer for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llowing Year: ſo that the increaſe or diminution of the Publick <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ock, is punctually and publickly known every Year.</p>
+            <p>It is to be obſerved that in all Meetings concerning the Affairs of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orporation, whatſoever is ſpent is not charged upon the Publick <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ock, but every one freely and without grudging pays his proportion, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough moſt have already conſiderably contributed to the Founda<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on.</p>
+            <p>Now as to the Advantages which the Poor may receive by this Cor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oration ſo conſtituted, they are many; for Lands may be either pur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>haſed in the Name of the Corporation, or made over to them in truſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be managed and improved for the uſe of the Poor, with far more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>curity than can be expected from any private Truſtees who are not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iected in a lawful permanent Body. Legacies and Donations, of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat nature ſoever, tending to the benefit of the Poor, may likewiſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e made over to the Company; whereby the Neceſſitous of our Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey who are here decayed and aged, may, by way of Penſion, be ſup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ied, ſuch as fall Sick relieved and taken care of, ſuch as dye, decently <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ried, and ſuch as want Money to go to their Native Countrey, fur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſhed; (Inſtances of all which we daily meet with in abundance:) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout Burden to the Pariſhes where they live, Charges to Strangers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongſt whom they have been, and Diſparagement to the Countrey to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich they belong; and this we think a Conſideration to be valued <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y all the ingenuous Lovers of their Countrey. We are likewiſe by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Patent enabled to be ſerviceable to our Countreymen beyond <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a, in performing the Wills of the Dead as Executors, and diſtribu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng their Legacies amongſt their Friends as they ſhall appoint, or in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſpenſing the Charity of the Living, in the manner that themſelves <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall preſcribe, without fraud or prevarication, the nature of our Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titution made up of ſo many Perſons whoſe private Intereſts are ſo
+<pb n="6" facs="tcp:180097:4"/>
+various, and their publick ſo uniform, in no probability being like <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> admit of any. Many other Benefits you your ſelves may gather fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Privileges of ſuch an Incorporated Body, which we ſhall not, preſent, to your farther trouble enumerate.</p>
+            <p>To conclude, Gentlemen, we are fully perſuaded that your own ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>did Reflections upon what we have above intimated to you, will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only incline you to approve our charitable performances in this kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but alſo encourage you to aſſiſt us with your Counſels, and benevol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Concurrence in a Work of ſo much advantage to the Indigent of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Countrey; it being not only a Chriſtian duty, but in ſome manner ſo the Intereſt of all Men, eſpecially ſuch as are abroad, to exerc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Charity in this way; for whoſoever ſhall but conſult his own <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>perience as to the ebbings and flowings of Temporal Goods, and t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many Revolutions of Providence, though Proſperity, at preſent, n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeem with a ſmile to invite his Soul to take its reſt, ſhall have reaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> without a bluſh or ſhame, to think it not altogether impoſſible, but t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (if not) himſelf, yet ſome of his Relations who are dear to him, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at ſome time or other be obliged to that wherewith at preſent his C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rity is pleaſed to oblige others. Though this be a Truth which uncertainty of worldly Enjoyments does too often confirm, yet as our Duty to wiſh well to all Men in General, ſo particularly we p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God that he would be pleaſed more and more ſo to proſper you in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> World, that you may have occaſion to be fully ſatisfied with your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Portion, and abundantly to ſupply the Neceſſities of others; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grant you in the next the lot of the Righteous, and the rewar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Well-doers: This is the hearty and earneſt wiſh of,</p>
+            <closer>
+               <salute>GENTLEMEN,</salute>
+               <signed>
+                  <hi>Your affectionate Brethren and Countreymen,</hi> JOHN RENNEY preſent M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
